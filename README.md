@@ -62,7 +62,7 @@ signupone:
 ![image](https://github.com/user-attachments/assets/2602e72c-bc63-4e73-91f4-8238ce2ddb61)
 signupTwo:
 ![image](https://github.com/user-attachments/assets/3adea0a5-6c0e-4562-b34b-54eb70365439)
-signupThree:(image you can add accounding to your referess)
+signupThree:(image you can add accounding to your references)
 ![image](https://github.com/user-attachments/assets/720e376f-d08d-4687-bd26-713b267f99e9)
 Transition:
 ![image](https://github.com/user-attachments/assets/fcadd43e-1f72-4053-89e8-36d9d43d6343)
