@@ -1,6 +1,6 @@
-# Bank Management System
+# ATM Management System
 
-This is a simple ATM and Bank Management System developed in Java using Swing and MySQL. The system provides essential banking functionalities such as withdrawing money, checking balances, and performing transactions. It is designed with a focus on simulating an ATM-like interface for users.
+This is a simple ATM and ATM Management System developed in Java using Swing and MySQL. The system provides essential banking functionalities such as withdrawing money, checking balances, and performing transactions. It is designed with a focus on simulating an ATM-like interface for users.
 
 ## Features
 
@@ -19,7 +19,7 @@ This is a simple ATM and Bank Management System developed in Java using Swing an
 - **PIN Change**: 
   - `pinchange.java` allows users to update their ATM PIN.
 - **Transactions**: 
-  - `transaction.java` manages other banking operations such as balance inquiry, deposits, and fund transfers.
+  - `transaction.java` manages other banking operations such as balance inquiry, deposits.
 
 ## Technologies Used
 
