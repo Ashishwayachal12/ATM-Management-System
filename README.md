@@ -1,6 +1,6 @@
 # ATM Management System
 
-This is a simple ATM and ATM Management System developed in Java using Swing and MySQL. The system provides essential banking functionalities such as withdrawing money, checking balances, and performing transactions. It is designed with a focus on simulating an ATM-like interface for users.
+This is a simple  ATM Management System developed in Java using Swing and MySQL. The system provides essential banking functionalities such as withdrawing money, checking balances, and . It is designed with a focus on simulating an ATM-like interface for users.
 
 ## Features
 
