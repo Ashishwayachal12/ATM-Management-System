@@ -33,6 +33,7 @@ This is a simple ATM and ATM Management System developed in Java using Swing and
 
    ```bash
   https://github.com/Ashishwayachal12/ATM-Management-System.git
+  
    cd BankManagementSystem
    
 Database Setup:
