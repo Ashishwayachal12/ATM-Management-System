@@ -18,8 +18,7 @@ This is a simple ATM and ATM Management System developed in Java using Swing and
   - `ministatement.java` shows a brief overview of recent transactions.
 - **PIN Change**: 
   - `pinchange.java` allows users to update their ATM PIN.
-- **Transactions**: 
-  - `transaction.java` manages other banking operations such as balance inquiry, deposits.
+
 
 ## Technologies Used
 
@@ -67,7 +66,7 @@ pinchange.java: Allows users to change their PIN securely.
 
 transaction.java: Manages banking transactions like balance inquiry, deposits, withdrawals.
 
-How to Run the Project:
+**How to Run the Project**:
 
 Prerequisites:
 
@@ -83,13 +82,13 @@ MySQL Connector (for database connection)
 
 Setup Instructions:
 
-1.Clone the repository:
+**1.Clone the repository**:
 
 git clone https://github.com/[Ashishwayachal12]/ATM-Management-System.git
 
 cd ATM-Management-System
 
-2.Setting up the database:
+**2.Setting up the database**:
 
 Open MySQL Workbench or any MySQL client.
 
@@ -111,7 +110,7 @@ CREATE TABLE users (
     balance DECIMAL(10, 2)
 );
 
-3.Adding External Libraries:
+**3.Adding External Libraries**:
 
 To run this project, you'll need to add the following libraries to your classpath:
 
@@ -119,7 +118,7 @@ JCalendar: Download JCalendar
 
 MySQL Connector: Download MySQL Connector
 
-4.Configure Database:
+**4.Configure Database**:
 Open MySQL and execute the SQL scripts located in the /sql/ 
 
 folder of the repository to create the necessary tables.
@@ -139,11 +138,11 @@ conn.java
 
 ![image](https://github.com/user-attachments/assets/e8241e8d-c2b2-4d1b-8bee-f760ec494875)
 
-5.Run the Application:
+**5.Run the Application**:
 
 Once the above setup is done, you can compile and run the login.java class to start the ATM Management System.
 
-Screenshots:
+**Screenshots**:
 
 Login :
 
