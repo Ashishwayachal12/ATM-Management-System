@@ -193,11 +193,11 @@ MiniStatement:
 
 Author:
 
-[Ashish Wayachal
+Ashish Wayachal
 
 Bengaluru.
 
-Email:ashishwayachal64@gmail.com].
+Email_ID:ashishwayachal64@gmail.com
 
 
 
