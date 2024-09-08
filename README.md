@@ -32,8 +32,9 @@ This is a simple ATM and ATM Management System developed in Java using Swing and
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Ashishwayachal12/BankManagementSystem.git
+  https://github.com/Ashishwayachal12/ATM-Management-System.git
    cd BankManagementSystem
+   
 Database Setup:
 
 Create a MySQL database.
