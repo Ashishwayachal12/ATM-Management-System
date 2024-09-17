@@ -32,7 +32,7 @@ This is a simple  ATM Management System developed in Java using Swing and MySQL.
 1. **Clone the repository**:
 
    ```bash
-  https://github.com/Ashishwayachal12/ATM-Management-System.git
+   https://github.com/Ashishwayachal12/ATM-Management-System.git
   
    cd BankManagementSystem
    
@@ -138,7 +138,7 @@ EXAMPLE:
 
 conn.java
 
-![image](https://github.com/user-attachments/assets/e8241e8d-c2b2-4d1b-8bee-f760ec494875)
+  ![image](https://github.com/user-attachments/assets/e8241e8d-c2b2-4d1b-8bee-f760ec494875)
 
 **5.Run the Application**:
 
